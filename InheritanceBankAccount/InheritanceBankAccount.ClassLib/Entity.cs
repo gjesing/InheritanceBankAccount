@@ -4,7 +4,7 @@ namespace InheritanceBankAccount.ClassLib
 {
     public abstract class Entity
     {
-        int id;
+        protected int id;
 
         public Entity()
         {
